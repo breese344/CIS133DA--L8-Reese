@@ -1,10 +1,16 @@
- body {
+/*
+Author: REE2126609
+Course: CIS133DA
+Lesson: 8
+*/
+
+body {
             font-family: Arial, Helvetica, sans-serif;
             font-size: 100%;
         }
         /** Header Styles **/
         header {
-            background: #2d3437 url(images/background.jpg) no-repeat center;
+            background: #2d3437 url(../images/background.jpg)
             background-size: cover;
             color: white;
             margin: 0;
